@@ -1,4 +1,4 @@
-module proto
+module github.com/Opened666/proto_auth
 
 go 1.25.0
 
